@@ -3,7 +3,7 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /></br>
    <img src="https://visitor-badge.laobi.icu/badge?page_id=A4rush.A4rush&"  />
   
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/not_.your._aryan?igsh=MXB1Z3dlZmNtbHI5dg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-tiwari-7414a5329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)][![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryantiwarichu.58@gmail.com) 
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/not_.your._aryan?igsh=MXB1Z3dlZmNtbHI5dg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-tiwari-7414a5329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)][X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryantiwarichu.58@gmail.com) 
 
 </div>
 
